@@ -1,0 +1,21 @@
+username: user@email.com
+password: password1
+
+download_location: 'C:\Users\User\Downloads'
+
+company_id: company
+
+project_name: project
+
+folders:
+    - e0f5cd3b-6b84-4c9b-aa84-a427111830fb  # - TRADE UPLOADS/DUCT
+    - be331ee7-9c5e-4d7d-9b6c-094ef4ef2c38  # - TRADE UPLOADS/ELECTRICAL
+    - 528f452a-a462-431a-813e-413c2b0fe883  # - TRADE UPLOADS/FIRE PROTECTION
+    - 7aa7d641-7135-4a5b-b959-2249369b6a77  # - TRADE UPLOADS/MECH PIPE
+
+models:
+    - BEAMALL.dwf
+    - BAYERALL.dwf
+    
+merged_models:
+    -

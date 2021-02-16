@@ -1,0 +1,23 @@
+username: user@email.com
+password: password1
+
+download_location: 'C:\Users\User\Downloads'
+
+company_id: company
+
+project_name: projectname
+
+folders:
+    - L00 - Basement
+    - L01
+    - L02
+    - L03
+    - L04 - Attic
+    - L05 - Roof
+    - LUG
+
+models:
+    
+merged_models:
+    # - Building Coordination
+    # - Building Design Merged

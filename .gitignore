@@ -1,0 +1,8 @@
+/venv
+*test.bat
+/.vscode
+/__pycache__
+/logs
+*.db
+*.db-journal
+/_old

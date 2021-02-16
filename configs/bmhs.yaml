@@ -1,0 +1,39 @@
+username: user@email.com
+password: password1
+
+download_location: 'C:\Users\User\Downloads\'
+
+company_id: company
+
+project_name: project
+
+folders:
+    - 05_Mechanical Duct Subcontractor Models
+    - 06_Mechanical Pipe Subcontractor Models
+    - 08_Electrical Subcontractor Models
+    - 09_Fire Protection Subcontractor Models
+    - 14_Clash-Report_NWD_files
+
+models:
+    - BHS_3D_ARCH_L1.dwg
+    - BHS_3D_ARCH_L2.dwg
+    - BHS_3D_ARCH_L3.dwg
+    - BHS_3D_ARCH_L4.dwg
+    - BHS_3D_ARCH_RF.dwg
+
+    - 2D_BACKGROUND_L2.dwg
+    - 2D_BACKGROUND_L3.dwg
+    - 2D_BACKGROUND_L4.dwg
+
+    - BHS_DES_STRUCT_UG.dwg
+    - BHS_DES_STRUCT_L1.dwg
+    - BHS_DES_STRUCT_L2.dwg
+    - BHS_DES_STRUCT_L3.dwg
+    - BHS_DES_STRUCT_L4.dwg
+
+    - BHS_BB_CT.dwg
+    
+    - BMHS_POOL_UG.dwg
+
+merged_models:
+    -

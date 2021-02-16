@@ -1,0 +1,19 @@
+username: user@email.com
+password: password1
+staging: true
+
+download_location: 'C:\Users\User\Downloads\test'
+
+company_id: copmany
+project_name: project1
+
+folders:
+    - folder1
+    - folder2
+
+models:
+    - bigfile.dwg
+    - big.nwd
+
+merged_models:
+    - merged_model_test1
